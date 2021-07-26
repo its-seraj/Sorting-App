@@ -12,4 +12,8 @@ It's a GUI based Sorting App. The objective of the app is to take input from use
   java -jar Sorting.jar
   ```
   
-## 
+## Homepage
+<img src="https://i.ibb.co/hs6Ty4K/Screenshot-227.png" />
+  
+## After applying Sorting
+<img src="https://i.ibb.co/YP3cKg7/Screenshot-228.png" />

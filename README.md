@@ -18,4 +18,5 @@ It's a GUI based Sorting App. The objective of the app is to take input from use
 ## After applying Sorting
 <img src="https://i.ibb.co/YP3cKg7/Screenshot-228.png" />
 
-  <li><b>NOTE : A clear button at Right-Bottom to clear all data and Perform new Sorting task.</b></li>
+<hr>
+<li><b>NOTE : A clear button at Right-Bottom to clear all data and Perform new Sorting task.</b></li>
